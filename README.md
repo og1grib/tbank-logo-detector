@@ -48,7 +48,7 @@ cd tbank-logo-detector
 
 2. Подготовка весов модели.
 
-Скачайте обученные веса для YOLO модели (файл `best.pt`) [по ссылке](https://disk.yandex.ru/d/cdiki5BBrG2OvQ). 
+Скачайте обученные веса для YOLO модели (файл `best.pt`) [по ссылке](https://disk.yandex.ru/d/V8m75dCpDZQF8g). 
 
 Поместите файл в директорию:
 
@@ -144,6 +144,7 @@ docker run --rm -p 8000:8000 tbank-logo-detector
 
 Валидационный датасет (): https://disk.yandex.ru/d/kvFk4RoyNSFlLQ
 
+### Валидация 
 
 <!-- 
 
