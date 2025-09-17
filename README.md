@@ -25,6 +25,17 @@
 6. Подготовить документацию.
 
 
+## Руководство по запуску
+
+1. Клонирование репозитория
+
+```bash
+git clone https://github.com/<your-username>/tbank-logo-detector.git
+cd tbank-logo-detector
+
+
+
+
 
 
 <!-- 
